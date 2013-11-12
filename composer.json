@@ -17,7 +17,6 @@
     } ],
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zendframework": "2.*",
         "bladeofsteel/scn-social-auth": "@dev",
         "bladeofsteel/zfc-user-doctrine-mongo-odm": "dev-master"
     },
