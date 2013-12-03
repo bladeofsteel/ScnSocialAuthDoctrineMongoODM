@@ -17,7 +17,7 @@
     } ],
     "require": {
         "php": ">=5.3.3",
-        "bladeofsteel/scn-social-auth": "dev-social",
+        "bladeofsteel/scn-social-auth": "@dev",
         "bladeofsteel/zfc-user-doctrine-mongo-odm": "dev-master"
     },
     "autoload": {
